@@ -36,6 +36,9 @@ Unlock the full potential of Innovate SQL Explorer with comprehensive documentat
 
 Immerse yourself in a guided tour of Innovate SQL Explorer through our Loom video. Follow along as we showcase key features, share tips, and provide insights to make your experience even more enjoyable.
 
+
+https://github.com/MKCA06/Atlan_Project/assets/91538092/885ad27a-37cd-41db-ba05-f0c1d2e6c762
+
 📹 [Loom Video](https://www.loom.com/share/be65779a0af34d08947f04428e40be2e?sid=a95f0d3f-2cd3-4b9d-95c0-948cd37632e8)
 
 ## 🚀 Technological Marvels
