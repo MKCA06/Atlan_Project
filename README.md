@@ -71,7 +71,7 @@ Unleash the potential of SQL with our thoughtfully crafted predefined queries:
 
 Experience lightning-fast page load times ranging from 0.4s to 0.6s on desktop. Dive into the world of code snappiness with our outstanding GTmetrix Grade.
 
-![GTmetrix Grade Report](Screenshot/snapyness.PNG)
+![GT METRIX](https://github.com/MKCA06/Atlan_Project/assets/91538092/f8f65b00-f9c0-4f70-9f66-44f724f03146)
 
 ### [web.dev Report](https://pagespeed.web.dev/)
 
@@ -79,11 +79,16 @@ Behold the web.dev report showcasing the exceptional performance on laptops and 
 
 Laptop performance view
 
-![web.dev Report](Screenshot/performance.PNG)
+![Performance](https://github.com/MKCA06/Atlan_Project/assets/91538092/e2ca5ca1-51af-415d-8ba4-969d7d7d7cde)
 
 Mobile performance view
 
-![web.dev Report](Screenshot/mobileperformance.PNG)
+![Performance](https://github.com/MKCA06/Atlan_Project/assets/91538092/e2ca5ca1-51af-415d-8ba4-969d7d7d7cde)
+
+Diagnostics
+
+![Diagnostics](https://github.com/MKCA06/Atlan_Project/assets/91538092/edf5c06c-a8f2-45aa-8e5d-f7d2787ef9a3)
+
 
 ## 🪜 The Optimization Odyssey
 
@@ -111,4 +116,6 @@ Explore the transformed interface, witness the innovation, and let the future of
 
 Behold the reimagined homepage showcasing the pinnacle of SQL exploration.
 
-![Homepage](Screenshot/main_project.PNG)
+![Home Page](https://github.com/MKCA06/Atlan_Project/assets/91538092/8023e96c-763f-4e3f-b6fb-634865d63353)
+
+![Output](https://github.com/MKCA06/Atlan_Project/assets/91538092/3d4e1b1b-53d1-4fd1-be3d-7310b89a07bb)
