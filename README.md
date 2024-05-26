@@ -1,105 +1,124 @@
-# 🏢 Agency Operations Services Platform
+# 💻 Innovate SQL Explorer
 
 ## 🚀 Introduction
 
-Welcome to the Agency Operations Services Platform, your comprehensive solution for managing and inquiring about agency operations. This platform is designed to streamline your interactions with various services, offering a user-friendly interface and robust functionality, all built with the power of Next.js.
+Discover the cutting-edge REACT SQL Explorer, an avant-garde web application designed to redefine your SQL querying experience. This revolutionary editor, crafted with ReactJs and infused with the elegance of TailwindCSS, is set to transform the way you interact with databases.
 
 ## 🎨 User Interface and Theme Overhaul
 
-Experience a modern and intuitive UI, meticulously designed to enhance usability and aesthetics. The platform's layout and color scheme are crafted to provide clarity and ease of use.
+Immerse yourself in a sleek and futuristic UI, meticulously redesigned to provide a seamless and visually stunning user experience. The color palette and layout have been meticulously curated to enhance clarity and elevate the overall aesthetics.
 
 ## 👨‍💻 Explore Live Demo
 
-<a href="https://github.com/YourRepo/agency-operations-services" target="blank">
-<img src="https://img.shields.io/website?url=https://www.example.com&logo=github&style=flat-square" />
+<a href="https://github.com/sambitos23/react-sql-explorer" target="blank">
+<img src="https://img.shields.io/website?url=https://www.codingspace.codes&logo=github&style=flat-square" />
 </a>
 
-🌐 Embark on a journey of exploration: [Agency Operations Services Platform](https://agency-operations-services.example.com/)
+🌐 Embark on a journey of exploration: [Innovate SQL Explorer](https://innovate-sql-explorer.vercel.app/)
 
 ## 🌟 Additional Resources
 
-Explore additional resources to enhance your understanding and experience with the Agency Operations Services Platform:
+Explore the additional resources to enhance your understanding and experience with Innovate SQL Explorer:
 
 ### 🖌 Figma File
 
-Access the Figma file to delve into the design details and user interface. Witness the thought process behind every pixel and see the design evolution.
+Access the Figma file to dive into the intricacies of the design and user interface. Witness the thought process behind every pixel and experience the design evolution.
 
-🔗 [Figma File](https://www.figma.com/file/Example/Agency-Operations-Services?type=design&node-id=0%3A1&mode=design)
+🔗 [Figma File](https://www.figma.com/file/QkWwUgR4nYcRgflcRzcoJt/Atlan?type=design&node-id=0%3A1&mode=design&t=LyiICiSFUIWlLwdG-1)
 
-### 📖 Documentation
+### 📖 GitBook Documentation
 
-Unlock the full potential of the platform with comprehensive documentation. This guide covers installation, features, and best practices to make your experience seamless.
+Unlock the full potential of Innovate SQL Explorer with comprehensive documentation available on GitBook. This detailed guide covers installation, features, and best practices to make your exploration seamless.
 
-📚 [Documentation](https://docs.agency-operations-services.example.com/)
+📚 [GitBook Documentation](https://atlans-frontend-assignment.gitbook.io/react-sql-editro-by-manik-chadha/)
 
 ### 🎥 Loom Video
 
-Immerse yourself in a guided tour of the platform through our Loom video. Follow along as we showcase key features, share tips, and provide insights to enhance your experience.
+Immerse yourself in a guided tour of Innovate SQL Explorer through our Loom video. Follow along as we showcase key features, share tips, and provide insights to make your experience even more enjoyable.
 
-📹 [Loom Video](https://www.loom.com/share/example)
+
+https://github.com/MKCA06/Atlan_Project/assets/91538092/885ad27a-37cd-41db-ba05-f0c1d2e6c762
+
+📹 [Loom Video](https://www.loom.com/share/be65779a0af34d08947f04428e40be2e?sid=a95f0d3f-2cd3-4b9d-95c0-948cd37632e8)
 
 ## 🚀 Technological Marvels
 
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## ⚙️ Power-Packed Dependencies
 
-- **_axios_**
-- **_react-router-dom_**
-- **_formik_**
-- **_yup_**
+- **_react-ace_**
+- **_react-csv_**
+- **_react-hot-toast_**
+- **_tailwind-scrollbar-hide_**
 
 ## 👨‍💻 Astonishing Features
 
-✅ Secure login with robust authentication mechanisms.\
-✅ Comprehensive inquiry system for agency services.\
-✅ User-friendly account creation process.\
-✅ Real-time data updates and notifications.\
-✅ Intuitive and responsive design for seamless interaction.
+✅ Experience the brilliance of predefined SQL queries with just a click.\
+✅ Uncover table columns effortlessly through the right sidebar menu.\
+✅ Dive deep into table values by clicking on the table name in the right sidebar menu.\
+✅ Instantly download data in CSV format for seamless collaboration.\
+✅ Witness query runtime displayed in milliseconds (ms) for optimized performance.
 
-## ⏱ Lightning-Fast Performance
+## ✍️ Unleash the Power of SQL
 
-Experience lightning-fast load times and optimized performance across devices. The platform is built to ensure a smooth and efficient user experience.
+Unleash the potential of SQL with our thoughtfully crafted predefined queries:
+
+- `select * from masterpieces;`
+- `select * from innovations;`
+- `select * from breakthroughs;`
+- `select creator_name, invention,impact,launch_year, country from masterpieces limit 18;`
+
+## ⏱ Lightning-Fast Page Load Time
+
+Experience lightning-fast page load times ranging from 0.4s to 0.6s on desktop. Dive into the world of code snappiness with our outstanding GTmetrix Grade.
+
+![GT METRIX](https://github.com/MKCA06/Atlan_Project/assets/91538092/f8f65b00-f9c0-4f70-9f66-44f724f03146)
+
+### [web.dev Report](https://pagespeed.web.dev/)
+
+Behold the web.dev report showcasing the exceptional performance on laptops and mobile devices.
+
+Laptop performance view
+
+![Performance](https://github.com/MKCA06/Atlan_Project/assets/91538092/e2ca5ca1-51af-415d-8ba4-969d7d7d7cde)
+
+Mobile performance view
+
+![Performance](https://github.com/MKCA06/Atlan_Project/assets/91538092/e2ca5ca1-51af-415d-8ba4-969d7d7d7cde)
+
+Diagnostics
+
+![Diagnostics](https://github.com/MKCA06/Atlan_Project/assets/91538092/edf5c06c-a8f2-45aa-8e5d-f7d2787ef9a3)
+
+
+## 🪜 The Optimization Odyssey
+
+Embark on the optimization journey with insights from the Lighthouse DevTools Extension. Deployed on Vercel, our website harnesses the Vercel Edge Network compression for superior performance.
 
 ## 🛠️ Implementation Guide
 
-Intrigued? Dive into the future of agency operations management with the Agency Operations Services Platform:
+Intrigued? Dive into the future of SQL exploration with Innovate SQL Explorer:
 
 ### `npm install`
 
-Install all necessary packages. This command installs both dependencies and devDependencies listed in the package.json.
-
-### `npm run dev`
-
-Launch the application in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-### `npm run build`
-
-Build the application for production, optimizing it for best performance. The build is ready to be deployed.
+Initiate the installation of all the avant-garde packages in the package.json. This magical command installs both dependencies and devDependencies.
 
 ### `npm start`
 
-Start the production build locally. Ensure the build step is completed before running this command.
+Launch the application into the development mode. Open [http://localhost:3000](http://localhost:3000) and witness the brilliance in your browser.
+
+### `npm run build`
+
+Build the application for production, unleashing the full potential. The build is optimized for peak performance, ready to be deployed.
+
+Explore the transformed interface, witness the innovation, and let the future of SQL exploration unfold before your eyes.
 
 ## 🌟 Unveiling the Project Output
 
-Behold the reimagined interface showcasing the pinnacle of agency operations management.
+Behold the reimagined homepage showcasing the pinnacle of SQL exploration.
 
-### Login Page
+![Home Page](https://github.com/MKCA06/Atlan_Project/assets/91538092/8023e96c-763f-4e3f-b6fb-634865d63353)
 
-![Login Page](path/to/login_page.jpg)
-
-### Actual Page
-
-![Actual Page](path/to/actual_page.jpg)
-
-### Account Creation Page
-
-![Account Creation Page](path/to/fourth_page.jpg)
-
-Explore the transformed interface, witness the innovation, and let the future of agency operations unfold before your eyes.
-
----
-
-Feel free to replace placeholder links and image paths with actual URLs and paths. This README follows the style of the sample provided and includes relevant details for the Agency Operations Services Platform, now highlighting the use of Next.js.
+![Output](https://github.com/MKCA06/Atlan_Project/assets/91538092/3d4e1b1b-53d1-4fd1-be3d-7310b89a07bb)
